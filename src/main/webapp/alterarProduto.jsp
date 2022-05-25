@@ -22,7 +22,7 @@
 			</div>
 
 			<ul class="navbar-nav">
-				<li><a href="<%=request.getContextPath()%>/listarProduto.jsp"
+				<li><a href="<%=request.getContextPath()%>/listarProduto"
 					class="nav-link"> Produtos </a></li>
 			</ul>
 			<ul class="navbar-nav">
