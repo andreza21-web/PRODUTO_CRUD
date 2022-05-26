@@ -7,7 +7,9 @@ import java.util.List;
 
 
 public class Produtos {
-
+	// andreza do nascimento pessoa
+	//lidiane souza soares
+	
 	private static List<Produto> lista = new ArrayList<Produto>();
 	private static Integer chaveSequencial = 1;	
 
