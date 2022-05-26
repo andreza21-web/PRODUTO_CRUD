@@ -29,7 +29,7 @@ Tela com os alunos
 <img src="alunos.png">
 Crud com dados
 
-<img src="Crud.png">
+<img src="CRUD.png">
 
 formulario alunos
 
