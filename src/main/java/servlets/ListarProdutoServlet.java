@@ -13,6 +13,9 @@ import javax.servlet.http.HttpServletResponse;
 import Product.Produto;
 import Product.Produtos;
 
+//andreza do nascimento pessoa
+//lidiane souza soares
+
 @WebServlet("/listarProduto")
 public class ListarProdutoServlet extends HttpServlet {
 

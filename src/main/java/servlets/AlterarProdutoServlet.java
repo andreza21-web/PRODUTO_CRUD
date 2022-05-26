@@ -14,6 +14,9 @@ import Product.Produtos;
 @WebServlet("/AlterarProduto")
 public class AlterarProdutoServlet extends HttpServlet {
 
+	// andreza do nascimento pessoa
+	//lidiane souza soares
+	
 	private static final long serialVersionUID = 1L;
 
 	@Override
